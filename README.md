@@ -1,2 +1,19 @@
 # 42-Inception
-# 42-Inception
+
+## .env file inside /srcs
+
+DOMAIN_NAME=<username>.42.fr
+
+SQL_DATABASE=inception
+SQL_USER=
+SQL_PASSWORD=
+SQL_ROOT_PASSWORD=
+SQL_HOST=
+
+SITE_TITLE=Inception
+ADMIN_USER=
+ADMIN_PASSWORD=
+ADMIN_EMAIL=
+USER1_LOGIN=
+USER1_MAIL=
+USER1_PASS=
