@@ -1,7 +1,7 @@
 # 42-Inception
 
 ## .env file inside /srcs
-
+```.env
 DOMAIN_NAME=<username>.42.fr
 
 SQL_DATABASE=inception
@@ -17,3 +17,4 @@ ADMIN_EMAIL=
 USER1_LOGIN=
 USER1_MAIL=
 USER1_PASS=
+```
